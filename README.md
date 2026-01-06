@@ -1,9 +1,3 @@
-这是一个为 Node.js 版本（V27.0 最终静默版）准备的详细 `README.md` 文件。它包含了针对 Node.js 生态优化的部署方式（如 PM2），同时也包含了 Docker 和 Systemd 方案。
-
-你可以直接将以下内容复制到你的 GitHub 仓库的 `README.md` 文件中。
-
----
-
 # NodeJS XHTTP High-Performance Proxy
 
 这是一个基于 Node.js 原生模块和 `ws` 库构建的高性能 XHTTP/WebSocket 代理服务器。
